@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>15F0F0B3-3275-4A85-A73D-3BE9AB3B2E4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>15F0F0B3-3275-4A85-A73D-3BE9AB3B2E4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>MyPlayground-adqzzqqbxzlwxmcsnudlsumlxopv</string>
+			<key>timeStartedRecording</key>
+			<real>681091796.78978705</real>
+			<key>timeStoppedRecording</key>
+			<real>681091796.80704999</real>
+			<key>title</key>
+			<string>Build target MyPlayground_Sources</string>
+			<key>uniqueIdentifier</key>
+			<string>15F0F0B3-3275-4A85-A73D-3BE9AB3B2E4F</string>
+		</dict>
+		<key>9B7403BE-F846-45AC-983B-0710770B27D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>9B7403BE-F846-45AC-983B-0710770B27D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>MyPlayground-euwakyzljltksbfvamsyampovqgl</string>
+			<key>timeStartedRecording</key>
+			<real>681086450.33612394</real>
+			<key>timeStoppedRecording</key>
+			<real>681086450.34649801</real>
+			<key>title</key>
+			<string>Build target MyPlayground_Sources</string>
+			<key>uniqueIdentifier</key>
+			<string>9B7403BE-F846-45AC-983B-0710770B27D7</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
